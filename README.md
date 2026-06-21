@@ -65,6 +65,6 @@ O navegador abrirá automaticamente em `http://localhost:8501`.
 
 ## Dataset
 
-Fonte: [Stack Overflow Developer Survey 2023 — Kaggle](https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2018-developer-survey)
+Fonte: [Stack Overflow Developer Survey 2023 — Kaggle](https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-developers-survey))
 
 O dataset contém 89.184 respostas de desenvolvedores de todo o mundo, coletadas pela plataforma Stack Overflow. Após o processo de limpeza, foram utilizados 46.831 registros válidos.
