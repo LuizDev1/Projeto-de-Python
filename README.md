@@ -1,6 +1,6 @@
 # Stack Overflow Developer Survey 2023 — Análise Exploratória
 
-Projeto desenvolvido como trabalho final da disciplina de Ciência de Dados, com o objetivo de analisar o perfil e os salários de desenvolvedores de software ao redor do mundo a partir dos dados da pesquisa anual do Stack Overflow.
+Projeto desenvolvido como trabalho final da disciplina de Novas Tecnologias, com o objetivo de analisar o perfil e os salários de desenvolvedores de software ao redor do mundo a partir dos dados da pesquisa anual do Stack Overflow.
 
 **Pergunta de negócio:** Quais fatores mais influenciam o salário de desenvolvedores de software ao redor do mundo?
 
