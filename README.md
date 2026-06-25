@@ -155,43 +155,21 @@ Os insights são calculados dinamicamente conforme os filtros selecionados pelo 
 git clone https://github.com/LuizDev1/Projeto-de-Python.git
 ```
 
----
-
-## 2. Entre na pasta
+## 2. Acesse a pasta do projeto
 
 ```bash
 cd Projeto-de-Python
 ```
 
----
-
-## 3. Crie um ambiente virtual (opcional)
-
-Windows
+## 3. Instale as bibliotecas necessárias
 
 ```bash
-python -m venv venv
-venv\Scripts\activate
+pip install streamlit pandas numpy matplotlib
 ```
 
-Linux / macOS
+## 4. Certifique-se de que o arquivo `survey_results_public.csv` esteja na pasta raiz do projeto.
 
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
----
-
-## 4. Instale as dependências
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 5. Execute o projeto
+## 5. Execute a aplicação
 
 ```bash
 streamlit run app.py
